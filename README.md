@@ -98,10 +98,9 @@ As they have lower order volume but do not necessarily reduce overall revenue.
 
 ## 🎯 Key Takeaways
 
-- Operational efficiency is a key differentiator in quick commerce.
 - Discounts can strategically drive premium product sales.
-- Delivery time directly impacts customer satisfaction.
 - Data-driven expansion decisions improve business growth potential.
+- We should strengthen our unique strengths more. (For Big Basket to expand more in Mumbai.)
 
 ---
 
