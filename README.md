@@ -52,6 +52,7 @@ The dashboard includes:
 ### 4️⃣ What is the relationship between delivery time and delivery partner rating?
 ![Delivery Time vs Rating](images/relationship_plot.png)
 
+So, they don't relate to one another.
 ---
 
 ### 5️⃣ What is the most popular product category on Swiggy Instamart for customers aged 30–40 in Mumbai?
